@@ -1,2 +1,10 @@
-# lo-que-quieran-jaja-
-Control de versiones proyecto JAVA 
+# Logica de Programacion
+## Proyecto Java 
+
+![N|Solid](https://i.blogs.es/53044d/java/1366_521.jpg)
+
+Descripcion del equipo en archivo README .md
+
+>- _✨Camilo Vasquez Hincapie ✨_
+>- _✨Miguel Angel Velez Suarez ✨_
+
