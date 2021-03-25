@@ -5,6 +5,6 @@
 
 Descripcion del equipo en archivo README .md
 
->- _😎Camilo Velasquez Hincapie😎 _
+>- _😎Camilo Velasquez Hincapie😎_
 >- _😎Miguel Angel Velez Suarez😎_
 
